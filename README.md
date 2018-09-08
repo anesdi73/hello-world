@@ -1,2 +1,3 @@
 # hello-world
-a testing reository
+a testing repository
+someday i will use github for Angular development
